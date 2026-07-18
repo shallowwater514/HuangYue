@@ -1,0 +1,20 @@
+# Build output
+dist/
+bin/
+obj/
+*.exe
+
+# IDE
+.vs/
+.idea/
+*.suo
+*.user
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Python (just in case)
+__pycache__/
+*.pyc
+.venv/
